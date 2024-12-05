@@ -1,0 +1,9 @@
+# Strict Python 3.11 Compatible Dependencies
+opencv-python>=4.7.0.72,<4.8.0
+mediapipe>=0.10.0,<0.11.0
+
+# Serial Communication
+pyserial>=3.5,<3.6
+
+# Version pinned for Python 3.11 compatibility
+# Upper bounds prevent potential breaking changes
