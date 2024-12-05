@@ -1,6 +1,7 @@
 # 🎉 Fingertron 3000
 
 ![Fingertron 3000](/thumb/view.png)
+
 **The Ultimate Finger-Counting Technological Marvel!** 🖐️
 
 ## 🌟 Project Overview
