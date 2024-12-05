@@ -1,5 +1,6 @@
 # 🎉 Fingertron 3000
 
+![Fingertron 3000](/thumb/view.png)
 **The Ultimate Finger-Counting Technological Marvel!** 🖐️
 
 ## 🌟 Project Overview
@@ -56,6 +57,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+![Fingertron 3000](/thumb/p2.png)
 
 ## 🚀 Running the Project
 
@@ -73,6 +75,7 @@ python uno.py
 ```bash
 python main.py
 ```
+![Fingertron 3000](/thumb/p1.png)
 
 ## 🔍 How It Works
 
